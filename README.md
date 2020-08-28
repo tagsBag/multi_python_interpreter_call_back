@@ -1,8 +1,10 @@
-# math-py-test
-  Python embedding demo
-  This project shows how to embed python script in c++ program using boost.python library
-  以上 是 界面框架来源 readme
-
+# 参考项目
+  math-py-test
+    ui界面编辑script,ui绘制曲线
+  python-sub-interpreters-multiple-threads
+    c++ 多线程 调用 python多解释器,隔离各自环境变量
+  boost-python-tutorial
+    boost::python 封装 c++ 给 python 回调
 
 # c++调用python子解释器示例
   ## 1.c++通过python.h提供方法调用python代码
